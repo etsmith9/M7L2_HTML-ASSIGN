@@ -5,7 +5,7 @@ Remember to take your time and work through each question diligently! Test your 
 
 Don't forget. Make sure this assignment is in it's own repository. Not mixed in with others!
 
-1. Embedding Multimedia in Educational Content
+QUESTION 1. Embedding Multimedia in Educational Content
 
 Objective: The aim of this assignment is to enhance the delivery of educational content through the effective use of multimedia elements in a web page. By embedding images, audio, and video, students will learn to create more engaging and interactive educational resources.
 
@@ -29,7 +29,7 @@ The HTML document must include at least one example of each multimedia element (
 Each multimedia element must be appropriately captioned or described to aid understanding.
 The page should be structured semantically, with clear headings and descriptive text accompanying each multimedia element to contextualize its relevance to the educational content.
 
-2. Crafting a Semantic Web Document
+QUESTION 2. Crafting a Semantic Web Document
 Objective: The aim of this assignment is to deepen understanding and application of semantic HTML5 elements in creating a well-structured, accessible web document. Students will learn to use semantic tags to outline the structure of a web page, enhancing both its readability for humans and its interpretability for search engines.
 
 Problem Statement: In the sprawling landscape of the web, countless pages suffer from poor structure and accessibility, making it challenging for both users and search engines to navigate and understand content. This assignment challenges you to build a semantically rich, accessible web page on a topic of your choice (e.g., a hobby, a tutorial, or a personal project), using HTML5 semantic elements to organize content logically.
